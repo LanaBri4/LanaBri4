@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ![LightHouse](https://img.shields.io/badge/-LightHouse-orange?style=plastic)
 ![Emulation_of_a_WEB_page_on_different_devices](https://img.shields.io/badge/-Emulation_of_a_WEB_page_on_different_devices-orange?style=plastic)
 
-> ![GIT/GitHub](https://img.shields.io/badge/GIT/GitHub-darkgrey?style=plastic)
+> ![GIT](https://img.shields.io/badge/GIT/GitHub-darkgrey?style=plastic)
 ![Create_and_delete_local_and_remotely_repositories](https://img.shields.io/badge/Create_and_delete_local_and_remotely_repositories-orange?style=plastic)
 ![Working_with_branches:_create_merge_delete](https://img.shields.io/badge/-Working_with_branches:_create_merge_delete-orange?style=plastic)
 
